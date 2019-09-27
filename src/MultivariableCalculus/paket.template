@@ -1,0 +1,29 @@
+type file
+id MultivariableCalculus
+title
+    MultivariableCalculus
+owners
+    Jack Fox
+authors 
+    Jack Fox
+projectUrl
+    https://github.com/jackfoxy/MultivariableCalculus
+iconUrl
+    https://raw.githubusercontent.com/jackfoxy/MultivariableCalculus/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/jackfoxy/MultivariableCalculus/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+language
+    F#
+copyright
+    Copyright 2017
+tags
+    F# calculus
+summary
+    MultivariableCalculus
+description
+    MultivariableCalculus
+
+files
+	../../bin/MultivariableCalculus ==> lib
