@@ -1,5 +1,9 @@
+FSharp.Data
+TaskBuilder.fs
+Saturn
+Thoth.Json.Giraffe
 group Server
-    FSharp.Core
-    Saturn
-    Thoth.Json.Giraffe
-    FSharp.Data
+FSharp.Core
+Saturn
+Thoth.Json.Giraffe
+FSharp.Data

@@ -22,7 +22,11 @@ nuget Fake.DotNet.AssemblyInfoFile
 nuget Fake.DotNet.Paket
 nuget Fake.DotNet.Testing.Expecto 
 nuget Fake.DotNet.FSFormatting
+nuget FSharp.Data
 nuget MathNet.Numerics.FSharp
+nuget Saturn
+nuget TaskBuilder.fs
+nuget Thoth.Json.Giraffe
 
 group Formatting
 	source https://api.nuget.org/v3/index.json

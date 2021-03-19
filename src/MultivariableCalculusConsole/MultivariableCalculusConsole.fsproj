@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net472;netcoreapp2.1</TargetFrameworks>
+    <TargetFrameworks>net5.0</TargetFrameworks>
     <RootNamespace>MultivariableCalculusConsole</RootNamespace>
     <AssemblyName>MultivariableCalculusConsole</AssemblyName>
     <Name>MultivariableCalculusConsole</Name>

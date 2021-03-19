@@ -504,6 +504,6 @@ let createAndGetDefault () =
     }
 
     //BuildTask.createEmpty "All" [runTests; runBenchmarks; generateDocs; nuGet]
-    BuildTask.createEmpty "All" [runTests; runBenchmarks; generateDocs; nuGet]
+    BuildTask.createEmpty "All" [runTests; runBenchmarks; nuGet]
 
 let listAvailable() = BuildTask.listAvailable()
